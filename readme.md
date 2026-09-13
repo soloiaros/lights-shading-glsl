@@ -1,4 +1,6 @@
-# Three.js Journey
+# Light Shading (GLSL)
+
+This project implements the basic light types using custom shaders in combination with ThreeJS.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
